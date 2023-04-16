@@ -9,4 +9,7 @@ e os consolidei na criação da Home page da Atlas Security, uma empresa de segu
 O projeto conta com diversas estruturas Flexbox e Grid, que se moldam de forma responsiva dependendo do tamanho de  
 tela do dispositivo pelo qual o usuário acessa o site.
 
-Fica aqui a marca de primeiro deploy de um projeto próprio. Estou bastante confiante de que eu venha a reabastecê-lo com novas funcionalidades no futuro.
+Fica aqui a marca de primeiro deploy de um projeto próprio. Estou bastante confiante de que eu venha a    
+reabastecê-lo com novas funcionalidades no futuro. Segue o link para acesso do site:   
+   
+https://mateus-ca13.github.io/Projeto-Web---Atlas-Security/
