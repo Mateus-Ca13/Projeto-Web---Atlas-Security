@@ -1,4 +1,4 @@
-# Projeto-Web---Atlas-Security (HTML & CSS only)
+# Projeto-Web---Atlas-Security
 ### Projeto autônomo de webpage para empresa fictícia.
 
 <img src="/icons&logo/logoatlas.png" alt="Logo da empresa" style="width:300px;"/>
