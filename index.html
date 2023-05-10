@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Atlas Security | Home </title>
-    <link rel="icon" href="atlasicon.png" type="image/png">
+    <link rel="icon" href="icons&logo/atlasicon.png" type="image/png">
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
@@ -16,10 +16,23 @@
     <header>
         <img class="logoatlas" src="icons&logo/logoatlas.png" alt="Logotipo da Atlas Security">
         <div class="menu_div">
-            
+        
         <nav>     
             <div class="nav_menu">
+                <div class="overlay"></div>
                 <button class="menu_button"><img class="menu_icon" src="icons&logo/menuicon.png"></button>
+                <div id="menu" class="menu_off menu_on">
+                    <ul class="menu_list">
+                        <li class="menu_item"><a class="menu_link" href="#">Home</a></li>
+                        <li class="menu_item"><a class="menu_link" href="#">Produtos e Serviços</a></li>
+                        <li class="menu_item"><a class="menu_link" href="#">Sobre nós</a></li>
+                        <li class="menu_item"><a class="menu_link" href="#">Contato</a></li>
+                        <li class="menu_item"><img class="menu_social" src="socialMedia/facebook.png"><a class="menu_link" href="#">Facebook</a></li>
+                        <li class="menu_item"><img class="menu_social" src="socialMedia/instagram.png"><a class="menu_link" href="#">Instagram</a></li>
+                        <li class="menu_item"><img class="menu_social" src="socialMedia/linkedin.png"><a class="menu_link" href="#">Linkedin</a></li>
+                        <li class="menu_item"><img class="menu_social" src="socialMedia/youtube.png"><a class="menu_link" href="#">Youtube</a></li>
+                    </ul>
+                </div>
             </div>      
             <div class="nav_social">
                 <a href="#"><img src="socialMedia/facebook.png" alt="Link para o facebook da Atlas Security" class="nav_icon"></a>
@@ -189,5 +202,6 @@
             </ul>
         <p class="copyright">&copy; 2023 Atlas Security - Todos os direitos reservados.</p>
     </footer>
+    <script src="button.js"></script>
 </body>
 </html>
